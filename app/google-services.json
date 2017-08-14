@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955995006711",
+    "project_id": "mishi-176703"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955995006711:android:784db9be3f8069b3",
+        "android_client_info": {
+          "package_name": "com.mishipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955995006711-gedj54al81sm9d60ariagct5vmr8qmr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mishipay",
+            "certificate_hash": "be77160af29a1554bd60a85f6f3584b78219182b"
+          }
+        },
+        {
+          "client_id": "955995006711-m4ruiau0hvi3u1hl3urgo4d33an7e9d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18cbSAFGUAaVeM_ccCiZm9oYu9_x7aWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
